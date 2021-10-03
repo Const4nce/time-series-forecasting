@@ -1,3 +1,6 @@
-#time-series-forecasting
-## time series forecasting with facebook Prophet
-## time series forecasting with ARIMA
+<h1>time-series-forecasting</h1>
+
+<h3>Content:</h3>
+* download and explore dataset
+* time series forecasting with Facebook Prophet
+* time series forecasting with ARIMA
